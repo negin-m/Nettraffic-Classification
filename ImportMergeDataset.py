@@ -15,7 +15,7 @@ import numpy as np   # Numpy Import
 """
 Import All Datasets 
 """
-## Set File Address in Local PC ## 
+## Set Files Address in Local PC ## 
 File_Addr1="D:\\Dataset\\140004_Dataset_NeginMohammadi\\Scenario A1\\DSt-15s-VPN.arff"
 File_Addr2="D:\\Dataset\\140004_Dataset_NeginMohammadi\\Scenario A1\\DSt-30s-VPN.arff"
 File_Addr3="D:\\Dataset\\140004_Dataset_NeginMohammadi\\Scenario A1\\DSt-60s-VPN.arff"
